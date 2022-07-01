@@ -1,6 +1,6 @@
 {
     "name": "Common Cube Chrome Extension",
-    "version": "0.1",
+    "version": "0.2",
     "description": "Chrome extension that replaces images on mtgadraft.tk with custom images. Functionally allowing players to draft custom cards.",
     "manifest_version": 2,
     "icons": {
